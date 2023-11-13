@@ -1,13 +1,12 @@
-# ariyoaresa.github.io
+# ariyoaresa.me
 
-This Website belongs to Ariyo Aresa, a website developer.
+This is the repository for my personal website. It contains information about me, my projects, and my interests.
 
-# You can check out some of his projects here
+## Projects
 
-- [Ariyo's Portfolio](https://ariyoaresa.github.io/portfolio) 
+Here are some of the projects I have worked on:
 
-- [Ile-Aresa International](https://ariyoaresa.github.io/ile-aresa)
-
-- [ArizGPT](https://ariyoaresa.github.io/arizgpt) 
-
-- [Weather App](https://ariyoaresa.github.io/weather) 
+1. **[Ariyo's Portfolio](https://ariyoaresa.github.io/portfolio)**: Ariyo Aresa portfolio where he listed his work and talks about his achievements.
+2. **[Ile-Aresa International](https://ariyoaresa.github.io/ile-aresa)**: The official website for Ile-Aresa International.
+3. **[ArizGPT](https://ariyoaresa.github.io/arizgpt)**: A GPT that responds to you like public figures
+4. **[Weather App](https://ariyoaresa.github.io/weather)**: A web app for that tells you the current weather in cities and even countries.
