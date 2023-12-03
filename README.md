@@ -11,4 +11,4 @@ Here are some of the projects I have worked on:
 3. **[ArizGPT](https://ariyoaresa.github.io/arizgpt)**: A GPT that responds to you like public figures
 4. **[Weather App](https://ariyoaresa.github.io/weather)**: A web app for that tells you the current weather in cities and even countries.
 
-[![An image of @ariyoaresa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ariyoaresa)](https://holopin.io/@ariyoaresa)
+[![An image of @ariyoaresa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ariyoaresa#badges)](https://holopin.io/@ariyoaresa#badges)
