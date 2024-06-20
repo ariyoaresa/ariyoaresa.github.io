@@ -5,6 +5,11 @@
         <priority>0.9</priority>
     </url>
     <url>
+        <loc>https://ariyoaresa.me/ai-list</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://ariyoaresa.me/portfolio</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
@@ -38,10 +43,5 @@
         <loc>https://ariyoaresa.me/weather</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://ariyoaresa.me/portfolio</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
     </url>
 </urlset>
