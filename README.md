@@ -1,4 +1,4 @@
-# ariyoaresa.me
+# ariyoaresa.github.io
 
 This is the repository for my personal website. It contains information about me, my projects, and my interests.
 
